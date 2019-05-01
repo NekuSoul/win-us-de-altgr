@@ -7,18 +7,18 @@ This is a modification of the regular Windows US keyboard layout that adds a var
 The following keys are added:
 
 | Key | AltGr | AltGr+Shift |
-| - | - | - |
-| 2 | ½ | ² |
-| 3 |   | ³ |
-| 4 | ¼ |   |
-| E | € |   |
-| T | ™ |   |
-| Y | ¥ |   |
-| U | ü | Ü |
-| O | ö | Ö |
-| A | ä | Ä |
-| S | ß |   |
-| C | © |   |
+| --- | ----- | ----------- |
+| 2   | ½     | ²           |
+| 3   |       | ³           |
+| 4   | ¼     |             |
+| E   | €     |             |
+| T   | ™     |             |
+| Y   | ¥     |             |
+| U   | ü     | Ü           |
+| O   | ö     | Ö           |
+| A   | ä     | Ä           |
+| S   | ß     |             |
+| C   | ©     |             |
 
 ## Usage
 
